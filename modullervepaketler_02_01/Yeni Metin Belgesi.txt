@@ -1,0 +1,5 @@
+1)Burada modül kullanarak bir dosya içinde farklı bir dosyayı çağırabiliyoruz.
+2)demo1.go daki fonksiyon içinde yazdığımız kodları main.go da çağırabiliriz.
+3)Terminale go mod init goders (istediğimiz modül adı) yazarak bir modül oluşturduk
+4)Modüller paketlerin genelidir aslında yani biz main.go da demo1 go içindeki demo2 go fonksiyonunu çalıştırmak
+istiyorsak main.go içinde demo1 deki paketi (yusuf) tanımlamak gerekir
